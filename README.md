@@ -1,7 +1,8 @@
 # dspy-resources
 
 ## X / Twitter
-Omar Khattab https://twitter.com/lateinteraction
+[Omar Khattab @lateinteractions](https://twitter.com/lateinteraction)
+[Franck SN @ndzfs](https://twitter.com/ndzfs)
 
 ## Docs[
 [https://dspy-docs.vercel.app/
@@ -10,3 +11,8 @@ Omar Khattab https://twitter.com/lateinteraction
 ## Articles/Blogs
 
  [DSPy: Not Your Average Prompt Engineering by Han Xiao](https://jina.ai/news/dspy-not-your-average-prompt-engineering/)
+
+
+## Videos / Youtube
+[Optimization of LLM Systems with DSPy and LangChain/LangSmith ](https://www.youtube.com/watch?v=4EXOmWeqXRc)
+[https://www.lycee.ai/](https://www.lycee.ai/)
