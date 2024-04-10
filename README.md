@@ -1,4 +1,4 @@
-# DSpy Resources
+# DSPy Resources
 
 ## Docs
 - [https://dspy-docs.vercel.app/](https://dspy-docs.vercel.app/)
@@ -17,7 +17,7 @@
 - [Tony Kipkemboi @tonykipkemboi](https://twitter.com/tonykipkemboi)
 - [https://twitter.com/akshay_pachaar/status/1776225863438422227](https://twitter.com/akshay_pachaar/status/1776225863438422227)
 
-## Articles/Blogs
+## Articles / Blogs
 - [DSPy: Not Your Average Prompt Engineering by Han Xiao](https://jina.ai/news/dspy-not-your-average-prompt-engineering/)
 - [Building an AI Assistant with DSPy by Valliappa Lakshmanan](https://www.linkedin.com/pulse/building-ai-assistant-dspy-valliappa-lakshmanan-vgnsc/)
 - [AI Prompt Engineering Is Dead Long live AI prompt engineering by Dina Genkina](https://spectrum.ieee.org/prompt-engineering-is-dead)
