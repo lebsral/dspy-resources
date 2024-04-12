@@ -8,6 +8,12 @@
 - [https://github.com/diicellman/dspy-rag-fastapi](https://github.com/diicellman/dspy-rag-fastapi)
 - [https://github.com/chrisammon3000/dspy-neo4j-knowledge-graph](https://github.com/chrisammon3000/dspy-neo4j-knowledge-graph)
 - [Weaviate Recipes](https://github.com/weaviate/recipes/tree/main/integrations/dspy)
+- [Python - create synthetic data using DSPy Synthesizer.ipynb](https://github.com/AmitXShukla/RPA/blob/8b7930e5563d1d6ea4940054cbd524b50bf728e5/notebooks/Python%20-%20create%20synthetic%20data%20using%20DSPy%20Synthesizer.ipynb)
+- [dspy examples](https://github.com/epec254/dspy_examples)
+- [DSPy Ollama](https://github.com/INF800/dspy-examples/blob/main/ollama/.ipynb_checkpoints/intro_ollama-checkpoint.ipynb)
+- [DSPy for Math](https://github.com/ganarajpr/dspy-examples)
+- [NEO4J](https://github.com/tomasonjo/blogs/blob/7704f3c1aa393fa8300550d3f1795b52e7209c0b/llm/dspy_example.ipynb#L36)
+- 
 
 ## X / Twitter
 - [Omar Khattab @lateinteractions](https://twitter.com/lateinteraction)
