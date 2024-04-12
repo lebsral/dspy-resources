@@ -1,13 +1,14 @@
 # DSPy Resources
 Originally compiled by [Lars Bell](https://www.linkedin.com/in/larsbell/)
+
 PRs welcome!
 
 ## Docs
 - [https://dspy-docs.vercel.app/](https://dspy-docs.vercel.app/)
+- [DSPy Repo](https://github.com/stanfordnlp/dspy)
 
 ## Example Code
 - [https://github.com/lakshmanok/lakblogs/tree/main/bridge_bidding_advisor](https://github.com/lakshmanok/lakblogs/tree/main/bridge_bidding_advisor)
-- [https://github.com/diicellman/dspy-rag-fastapi](https://github.com/diicellman/dspy-rag-fastapi)
 - [https://github.com/chrisammon3000/dspy-neo4j-knowledge-graph](https://github.com/chrisammon3000/dspy-neo4j-knowledge-graph)
 - [Weaviate Recipes](https://github.com/weaviate/recipes/tree/main/integrations/dspy)
 - [Python - create synthetic data using DSPy Synthesizer.ipynb](https://github.com/AmitXShukla/RPA/blob/8b7930e5563d1d6ea4940054cbd524b50bf728e5/notebooks/Python%20-%20create%20synthetic%20data%20using%20DSPy%20Synthesizer.ipynb)
@@ -15,7 +16,9 @@ PRs welcome!
 - [DSPy Ollama](https://github.com/INF800/dspy-examples/blob/main/ollama/.ipynb_checkpoints/intro_ollama-checkpoint.ipynb)
 - [DSPy for Math](https://github.com/ganarajpr/dspy-examples)
 - [NEO4J](https://github.com/tomasonjo/blogs/blob/7704f3c1aa393fa8300550d3f1795b52e7209c0b/llm/dspy_example.ipynb#L36)
-- by Thomas Dybdahl Ahle
+- [dspy-rag-fastapi  a full stack starter app](https://github.com/diicellman/dspy-rag-fastapi)
+- [HybridAGI  - uses DSPy throughout the code](https://github.com/SynaLinks/HybridAGI)
+- The Stanford Course CS224u: Natural Language Understanding by Christopher Potts has 2 notebooks that explore DSPy [hw_openqa.ipynb](https://github.com/cgpotts/cs224u/blob/1a2592e6106709e3c712f5c9538b3fef66316a00/hw_openqa.ipynb#L909) [hw_recogs.ipynb](https://github.com/cgpotts/cs224u/blob/1a2592e6106709e3c712f5c9538b3fef66316a00/hw_recogs.ipynb#L1650) 
 - 
 
 ## X / Twitter
