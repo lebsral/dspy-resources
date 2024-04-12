@@ -1,4 +1,6 @@
 # DSPy Resources
+Originally compiled by [Lars Bell](https://www.linkedin.com/in/larsbell/)
+PRs welcome!
 
 ## Docs
 - [https://dspy-docs.vercel.app/](https://dspy-docs.vercel.app/)
@@ -13,6 +15,7 @@
 - [DSPy Ollama](https://github.com/INF800/dspy-examples/blob/main/ollama/.ipynb_checkpoints/intro_ollama-checkpoint.ipynb)
 - [DSPy for Math](https://github.com/ganarajpr/dspy-examples)
 - [NEO4J](https://github.com/tomasonjo/blogs/blob/7704f3c1aa393fa8300550d3f1795b52e7209c0b/llm/dspy_example.ipynb#L36)
+- by Thomas Dybdahl Ahle
 - 
 
 ## X / Twitter
