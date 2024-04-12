@@ -18,8 +18,14 @@ PRs welcome!
 - [NEO4J](https://github.com/tomasonjo/blogs/blob/7704f3c1aa393fa8300550d3f1795b52e7209c0b/llm/dspy_example.ipynb#L36)
 - [dspy-rag-fastapi  a full stack starter app](https://github.com/diicellman/dspy-rag-fastapi)
 - [HybridAGI  - uses DSPy throughout the code](https://github.com/SynaLinks/HybridAGI)
-- The Stanford Course CS224u: Natural Language Understanding by Christopher Potts has 2 notebooks that explore DSPy [hw_openqa.ipynb](https://github.com/cgpotts/cs224u/blob/1a2592e6106709e3c712f5c9538b3fef66316a00/hw_openqa.ipynb#L909) [hw_recogs.ipynb](https://github.com/cgpotts/cs224u/blob/1a2592e6106709e3c712f5c9538b3fef66316a00/hw_recogs.ipynb#L1650) 
-- 
+- The Stanford Course CS224u: Natural Language Understanding by Christopher Potts has 2 notebooks that explore DSPy [hw_openqa.ipynb](https://github.com/cgpotts/cs224u/blob/1a2592e6106709e3c712f5c9538b3fef66316a00/hw_openqa.ipynb#L909) [hw_recogs.ipynb](https://github.com/cgpotts/cs224u/blob/1a2592e6106709e3c712f5c9538b3fef66316a00/hw_recogs.ipynb#L1650)
+- [dspy-arxiv - extracting features from PDF](https://github.com/S1M0N38/dspy-arxiv)
+- [Red-Teaming Language Models with DSPy](https://github.com/haizelabs/dspy-redteam)
+- [DSPy OpenTOM](https://github.com/plastic-labs/dspy-opentom)
+- [Sage_Project](https://github.com/JoonhyeonKim/Sage_Project/tree/main)
+- [Adapt-a-RAG: Adaptable Retrieval Augmented Generation](https://github.com/Josephrp/adapt-a-rag)
+- [bridge_bidding_advisor](https://github.com/lakshmanok/lakblogs/blob/548a6a9f46b399d2453077264ec313b4d5674479/bridge_bidding_advisor/README.md?plain=1)
+
 
 ## X / Twitter
 - [Omar Khattab @lateinteractions](https://twitter.com/lateinteraction)
