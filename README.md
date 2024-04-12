@@ -22,6 +22,7 @@
 - [Haize Labs @haizelabs](https://twitter.com/haizelabs)
 - [Tony Kipkemboi @tonykipkemboi](https://twitter.com/tonykipkemboi)
 - [https://twitter.com/akshay_pachaar/status/1776225863438422227](https://twitter.com/akshay_pachaar/status/1776225863438422227)
+- [Isaac Miller @isaacbmiller1](https://twitter.com/isaacbmiller1)
 
 ## Articles / Blogs
 - [DSPy: Not Your Average Prompt Engineering by Han Xiao](https://jina.ai/news/dspy-not-your-average-prompt-engineering/)
@@ -47,6 +48,7 @@
 - [DSPy: Compiling Declarative Language Model Calls into State-of-the-Art Pipelines](https://www.youtube.com/live/im7bCLW2aM4?si=ZUFopGD8AZ4CON4q)
 - [DSPy Explained!](https://youtu.be/41EfOY0Ldkc?si=72nT2qLq2IOVEfvF)
 - [Structured Outputs with DSPy](https://youtu.be/tVw3CwrN5-8?si=2vyBDUJnHAYtSaXT)
+- [Building RAG with Command R+ from Cohere, DSPy, and Weaviate! by Connor Shorten](https://youtu.be/6dgXALb_5Ag?si=lWPP7NHmJrY1BvU5)
 
 ## Podcast Episodes
 - [DSPy: Transforming Language Model Calls](https://podcasters.spotify.com/pod/show/mlops/episodes/DSPy-Transforming-Language-Model-Calls-into-Smart-Pipelines--Omar-Khattab--194-e2cpuga/a-aamov01)
