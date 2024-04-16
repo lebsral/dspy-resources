@@ -7,6 +7,11 @@ PRs welcome!
 - [https://dspy-docs.vercel.app/](https://dspy-docs.vercel.app/)
 - [DSPy Repo](https://github.com/stanfordnlp/dspy)
 
+## Presentation Slides
+- In the this repo or at
+[  https://www.slideshare.net/slideshow/dspy-a-system-for-ai-to-write-prompts-and-do-fine-tuning/267282494
+](https://www.slideshare.net/slideshow/dspy-a-system-for-ai-to-write-prompts-and-do-fine-tuning/267282494)
+
 ## Example Code
 - [https://github.com/lakshmanok/lakblogs/tree/main/bridge_bidding_advisor](https://github.com/lakshmanok/lakblogs/tree/main/bridge_bidding_advisor)
 - [https://github.com/chrisammon3000/dspy-neo4j-knowledge-graph](https://github.com/chrisammon3000/dspy-neo4j-knowledge-graph)
