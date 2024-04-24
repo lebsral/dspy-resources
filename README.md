@@ -30,6 +30,7 @@ PRs welcome!
 - [Sage_Project](https://github.com/JoonhyeonKim/Sage_Project/tree/main)
 - [Adapt-a-RAG: Adaptable Retrieval Augmented Generation](https://github.com/Josephrp/adapt-a-rag)
 - [bridge_bidding_advisor](https://github.com/lakshmanok/lakblogs/blob/548a6a9f46b399d2453077264ec313b4d5674479/bridge_bidding_advisor/README.md?plain=1)
+- [https://github.com/bllchmbrs/learnbybuilding.ai/blob/main/dspy-grug-text/dspy-gentle-intro-part-1.ipynb](https://github.com/bllchmbrs/learnbybuilding.ai/blob/main/dspy-grug-text/dspy-gentle-intro-part-1.ipynb)
 
 
 ## X / Twitter
